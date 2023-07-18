@@ -13,6 +13,6 @@ Extras: React-To-Print
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://www.linkedin.com/in/harshguptahg09)
+[![linkedin](https://www.linkedin.com/in/harshguptahg09)&nbsp;
 
 © 2022 Harsh Gupta
